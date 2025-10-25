@@ -28,7 +28,7 @@ This hybrid, two-pass architecture provides the best of both worlds: the raw spe
 - **Robust & Resilient:** Features a final, logical validation gate to ensure the quality and integrity of the AI's suggestions.
 
 ## Basic Usage
-This repository includes sample data (`sample_source_data.csv`, `sample_master_data.csv`) to demonstrate the matcher's capabilities. The `example.py` script provides a simple, command-line demonstration.
+This repository includes sample data (`sample_source_data.xlsx`, `sample_master_data.xlsx`) to demonstrate the matcher's capabilities. The `example.py` script provides a simple, command-line demonstration. The program can also accept .csv.
 
 To run the demonstration:
 1.  Clone the repository: `git clone https://github.com/your-username/advanced-name-matcher.git`
